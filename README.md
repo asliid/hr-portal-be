@@ -12,7 +12,7 @@ Bu proje, bir şirketin insan kaynakları yönetimini ve envanter takip süreçl
 # Web Site Yapısı
 
 # Genel İşlevsellikler
-1.Personel Yönetimi (IK Rolü):
+1. Personel Yönetimi (IK Rolü):
 	•	Filtreleme ve Listeleme: Kullanıcılar, personel adı, soyadı, TCKN ve birim bilgilerine göre personel araması yapabilirler. Arama sonuçları bir tabloda görüntülenebilir ve her satırda güncelleme işlemleri için bir buton yer alır.
 •	Personel Ekleme ve Güncelleme: “Yeni Personel” butonu ile yeni personel ekleme ve mevcut personel bilgilerini güncelleme işlemleri yapılabilir. Personel ekleme ve güncelleme işlemleri, tanımlanan PERSONEL İŞLEMLERİ ekranı üzerinden gerçekleştirilir.
 <img src="" 
@@ -22,7 +22,7 @@ Bu proje, bir şirketin insan kaynakları yönetimini ve envanter takip süreçl
   margin-right: auto;
   "/><br> Personel işlemleri ekranı <br>  <br>
 
-  2.	Envanter Yönetimi (Envanter Yönetimi Rolü):
+2. Envanter Yönetimi (Envanter Yönetimi Rolü):
 	•	Filtreleme ve Listeleme: Kullanıcılar, zimmet tipine göre envanter araması yapabilirler. Arama sonuçları, envanter tipi, marka, model ve seri numarası bilgileriyle listelenir. Her satırda envanter güncelleme butonu bulunur.
 	•	Zimmet Ekleme ve Güncelleme: “Yeni Zimmet Ekle” butonu ile yeni zimmet ekleme ve mevcut zimmet bilgilerini güncelleme işlemleri yapılabilir. Zimmet ekleme ve güncelleme işlemleri, tanımlanan ENVANTER BİLGİLERİ ekranı üzerinden gerçekleştirilir.
 <img src="" 
