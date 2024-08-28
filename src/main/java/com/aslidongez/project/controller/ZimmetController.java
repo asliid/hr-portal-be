@@ -15,7 +15,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/zimmet")
-@CrossOrigin("http://localhost:3000/")
+//@CrossOrigin("http://localhost:3000/")
 public class ZimmetController {
     @Autowired
     ZimmetService zimmetService;
