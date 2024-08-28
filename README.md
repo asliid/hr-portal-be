@@ -32,7 +32,7 @@ Bu proje, bir şirketin insan kaynakları yönetimini ve envanter takip süreçl
   margin-right: auto;
   "/><br> Envanter işlemleri ekranı <br>  <br>
   
-	3.	Zimmet İşlemleri (IK Rolü):
+3. Zimmet İşlemleri (IK Rolü):
 	•	Personel Arama ve Zimmet Yönetimi: Personel sicil numarası ve ada göre arama yapılacak ve sonuçlar bir tabloda görüntülenecek. Bu tabloda, personelin mevcut zimmet bilgilerine erişim sağlanacak. “Zimmeti Geri Al” butonu ile zimmet geri alma işlemi yapılabilecek ve envanter başka bir personele atanabilir hale getirilecek.
 	•	Yeni Zimmet Ekleme: “Yeni Zimmet Ekle” butonu ile kullanılmayan envanterler listelenecek ve seçilen envanterin teslim tarihi belirlenerek zimmet işlemi tamamlanacak.
 <img src="" 
