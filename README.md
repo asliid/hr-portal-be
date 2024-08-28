@@ -10,7 +10,6 @@ Bu proje, bir şirketin insan kaynakları yönetimini ve envanter takip süreçl
   margin-left: auto;
   margin-right: auto;
   "/><br> Giriş ekranı <br>  <br>
-# Web Site Yapısı
 
 # Genel İşlevsellikler
 1. Personel Yönetimi (IK Rolü)
