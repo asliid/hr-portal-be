@@ -1,9 +1,14 @@
 # ÖZET
 Şirket içinde kullanılabilecek bir HR(İnsan Kaynakları) uygulaması oluşturmak amaçlanmaktadır.Bu bağlamda kullanıcı, personellerin temel bilgilerini giriş güncelleme ile ilgili  işlemler yapabilecektir. Şirket içi personellere teslim edilecek envanter tiplerini ve listesini yöneten işlevsellikler sağlanacaktır.
+<br>  <br>
+Aiming to create an HR (Human Resources) application for internal company use, users will be able to perform tasks related to entering and updating basic information about personnel. Functionalities will be provided to manage the types and lists of inventory that will be assigned to company personnel.
 
 # Genel Bilgiler
 Bu proje, bir şirketin insan kaynakları yönetimini ve envanter takip süreçlerini dijitalleştirmek amacıyla tasarlanmış bir HR (İnsan Kaynakları) uygulaması geliştirilmiştir. Uygulama, personel bilgilerinin giriş ve güncelleme işlemlerini kolaylaştıracak, şirket içi envanter yönetimini verimli bir şekilde gerçekleştirecek ve personellere teslim edilen envanterlerin takibini sağlayacak bir dizi işlevsellik sunar.
 <br>  <br>
+This project involves the development of an HR (Human Resources) application designed to digitize a company’s human resources management and inventory tracking processes. The application facilitates the entry and updating of personnel information, efficiently manages internal inventory, and provides a range of functionalities to track the inventory assigned to personnel.
+<br>  <br>
+
 <img src="https://github.com/asliid/ik-portal-be/blob/main/photos/home.png" 
   style="  
     display: block;
